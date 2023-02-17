@@ -1,7 +1,7 @@
 {
 	"basic_info": {
-		"description_header": "Hi",
-		"description": "👋 I'm Ethan Storm. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+		"description_header": "Hello",
+		"description": "👋 I'm Ethan Storm. I use React and Node js for web development! Aligning myself with the goals and vision of my team is important. I'm very capable of learning, teaching, problem solving, organizing projects and goals to keep my team on track. My work ethic and growth mindset leverage my skills in web development making me capable and reliable in any position.  Thank you!",
 		"section_name": {
 			"about": "About me",
 			"projects": "Projects",
@@ -42,7 +42,7 @@
 				"images/portfolio/photography/p1.jpg",
 				"images/portfolio/photography/p2.jpg"
 			],
-			"url": "https://github.com",
+			"url": "https://github.com/ShadowDraco",
 			"technologies": [
 				{
 					"class": "devicon-react-original",
@@ -62,7 +62,7 @@
 				"images/portfolio/adventure/p1.jpg",
 				"images/portfolio/adventure/p2.jpg"
 			],
-			"url": "https://github.com",
+			"url": "https://github.com/ShadowDraco",
 			"technologies": [
 				{
 					"class": "devicon-angularjs-plain",
