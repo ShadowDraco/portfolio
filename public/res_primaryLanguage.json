@@ -11,9 +11,9 @@
 	},
 	"projects": [
 		{
-			"title": "Animal Shelter",
+			"title": "Bible Commentary",
 			"startDate": "2020",
-			"description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+			"description": "An app I deployed overnight to help my bible study group. The goal is for users to temporarily add their ideas into a neatly organized and accessible place. It does it's job quite well!",
 			"images": [
 				"images/portfolio/animal-shelter/p1.jpg",
 				"images/portfolio/animal-shelter/p2.jpg"
@@ -21,16 +21,16 @@
 			"url": "",
 			"technologies": [
 				{
-					"class": "devicon-angularjs-plain",
-					"name": "Angular"
+					"class": "devicon-react-original",
+					"name": "React"
 				},
 				{
-					"class": "devicon-typescript-plain",
-					"name": "TypeScript"
+					"class": "devicon-javascript-plain",
+					"name": "JavaScript"
 				},
 				{
 					"class": "devicon-csharp-plain",
-					"name": "C#"
+					"name": "GoogleAPIS"
 				}
 			]
 		},

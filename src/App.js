@@ -84,7 +84,7 @@ class App extends Component {
 			<Router>
 				<Header
 					sharedData={this.state.sharedData.basic_info}
-					title={this.state.sharedData.titles}
+					title={this.state.title}
 				/>
 				<Routes>
 					<Route
