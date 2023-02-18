@@ -29,7 +29,7 @@
           "name": "JavaScript"
         },
         {
-          "class": "devicon-google-plain",
+          "class": "devicon",
           "name": "GoogleAPIs"
         }
       ]
@@ -81,8 +81,8 @@
   ],
   "experience": [
     {
-      "company": "DefOpenSource",
-      "title": "Front-End Developer",
+      "company": "Code Fellows",
+      "title": "Full-Stack Student",
       "years": "10.2019 - present",
       "mainTech": ["Angular 8/9/10"],
       "technologies": [
@@ -98,11 +98,18 @@
       ]
     },
     {
-      "company": "Serros Solutions",
-      "title": "Intern",
-      "years": "01.2018 - 09.2019",
-      "mainTech": ["Angular 7/8"],
-      "technologies": ["RxJS", "Django", "PHP", "JavaScript", "DHTMLX Gantt"]
+      "company": "Waba Grill",
+      "title": "Server / Cashier",
+      "years": "05.2022 - 01.2023",
+      "mainTech": ["Customer Service"],
+      "technologies": [
+        "Teamwork",
+        "Patience",
+        "Consistency",
+        "Efficiency",
+        "Maturity",
+        "Responsibility"
+      ]
     }
   ]
 }

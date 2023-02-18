@@ -28,9 +28,10 @@ class Footer extends Component {
                   )
                 }
                 style={{ display: 'inline' }}
+                className='hidden'
               >
                 <span
-                  className='iconify language-icon mr-5'
+                  className='iconify language-icon mr-5 hidden'
                   data-icon='twemoji-flag-for-flag-united-kingdom'
                   data-inline='false'
                   id={window.$primaryLanguageIconId}
@@ -44,9 +45,10 @@ class Footer extends Component {
                   )
                 }
                 style={{ display: 'inline' }}
+                className='hidden'
               >
                 <span
-                  className='iconify language-icon'
+                  className='iconify language-icon hidden'
                   data-icon='twemoji-flag-for-flag-poland'
                   data-inline='false'
                   id={window.$secondaryLanguageIconId}
