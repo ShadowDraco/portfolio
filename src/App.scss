@@ -38,7 +38,7 @@ header {
   -webkit-background-size: cover;
   text-align: center;
   overflow: hidden;
-  background-color: #e9d5a1;
+  background-color: #7e9ee3;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -189,9 +189,9 @@ header h1 {
   -moz-transform: scale(1.01);
   transform: scale(1.01);
   z-index: 10;
-  -webkit-box-shadow: 0 10px 20px rgba(0, 0, 0, 0.7);
-  -moz-box-shadow: 0 10px 20px rgba(0, 0, 0, 0.7);
-  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.7);
+  -webkit-box-shadow: 0 10px 20px rgba(61, 20, 148, 0.7);
+  -moz-box-shadow: 0 10px 20px rgba(61, 20, 148, 0.7);
+  box-shadow: 0 10px 20px rgba(61, 20, 148, 0.7);
 }
 
 .project-title-settings {
@@ -209,7 +209,7 @@ header h1 {
 }
 
 .polaroid span {
-  background: #ffffff;
+  background: #efe1bd;
   display: inline-block;
   margin: 55px 75px 30px;
   padding: 15px 15px 30px;
@@ -253,7 +253,7 @@ header h1 {
 }
 
 #resume {
-  background: #efe1bd;
+  background: #147683a6;
 }
 
 .experience-icon {
@@ -271,6 +271,10 @@ header h1 {
   color: white;
   font-weight: lighter !important;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.about-card {
+  background-color: #efe1bd;
 }
 
 .experience-badge {
@@ -298,7 +302,7 @@ header h1 {
 }
 
 .modal-inside .modal-content {
-  background: white;
+  background: rgb(162, 243, 232);
 }
 
 .bars {

@@ -1,8 +1,8 @@
 import React, { Component } from 'react'
 import { Icon } from '@iconify/react'
-import angularIcon from '@iconify/icons-logos/angular-icon'
+import nodeIcon from '@iconify/icons-logos/nodejs-icon'
 import reactIcon from '@iconify/icons-logos/react'
-import vueIcon from '@iconify/icons-logos/vue'
+import mongoIcon from '@iconify/icons-logos/mongodb-icon'
 
 class About extends Component {
   render() {
@@ -31,7 +31,7 @@ class About extends Component {
                     alt='Avatar placeholder'
                   />
                   <Icon
-                    icon={angularIcon}
+                    icon={nodeIcon}
                     style={{ fontSize: '400%', margin: '9% 5% 0 5%' }}
                   />
                   <Icon
@@ -39,7 +39,7 @@ class About extends Component {
                     style={{ fontSize: '400%', margin: '9% 5% 0 5%' }}
                   />
                   <Icon
-                    icon={vueIcon}
+                    icon={mongoIcon}
                     style={{ fontSize: '400%', margin: '9% 5% 0 5%' }}
                   />
                 </span>
@@ -69,7 +69,7 @@ class About extends Component {
                     ></span>
                   </div>
                   <div
-                    className='card-body font-trebuchet text-justify ml-3 mr-3'
+                    className='card-body about-card font-trebuchet text-justify ml-3 mr-3'
                     style={{
                       height: 'auto',
                       fontSize: '132%',

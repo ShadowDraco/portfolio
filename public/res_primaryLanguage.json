@@ -55,26 +55,23 @@
       ]
     },
     {
-      "title": "3D Object Viewer",
-      "startDate": "2015",
-      "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+      "title": "Dance",
+      "startDate": "2016",
+      "description": "Personal projects, intense commitments and hobbies!",
       "images": [
-        "images/portfolio/adventure/p1.jpg",
-        "images/portfolio/adventure/p2.jpg"
+        "images/portfolio/adventure/dancing.gif",
+        "images/portfolio/adventure/flipping.gif",
+        "images/portfolio/adventure/p2.png"
       ],
-      "url": "https://github.com/ShadowDraco",
+      "url": "https://github.com/ShadowDraco/pokecatchdeployment",
       "technologies": [
         {
-          "class": "devicon-angularjs-plain",
-          "name": "Angular"
+          "class": "",
+          "name": "Discipline"
         },
         {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
-        },
-        {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
+          "class": "",
+          "name": "Perseverance"
         }
       ]
     }
@@ -83,18 +80,14 @@
     {
       "company": "Code Fellows",
       "title": "Full-Stack Student",
-      "years": "10.2019 - present",
-      "mainTech": ["Angular 8/9/10"],
+      "years": "2.2023 - present",
+      "mainTech": ["React Class/Functional"],
       "technologies": [
         "REST API",
-        "RxJS",
+        "MongoDb",
         "JavaScript",
         "Bootstrap",
-        "MDBootstrap",
-        "EF Core",
-        ".NET Core",
-        "SignalR",
-        "Angular Material"
+        "React Bootstrap"
       ]
     },
     {
