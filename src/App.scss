@@ -443,7 +443,10 @@ header h1 {
 }
 
 footer {
-  background: #1f1f1f;
+  background-image: url('../public/images/portfolio/sky.jpg');
+  background-position: center;
+  background-position-y: 70%;
+  background-size: cover;
   min-height: 100px;
   width: 100%;
   overflow: hidden;
@@ -461,6 +464,10 @@ footer a:visited {
 footer a:hover,
 footer a:focus {
   color: #fff;
+}
+
+footer small {
+  background-color: rgba(44, 28, 78, 0.7);
 }
 
 .social-links {
