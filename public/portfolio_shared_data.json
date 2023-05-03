@@ -1,63 +1,114 @@
 {
-  "basic_info": {
-    "name": "Ethan Storm",
-    "titles": ["Software Developer and Performer"],
-    "social": [
-      {
-        "name": "github",
-        "url": "https://github.com/ShadowDraco",
-        "class": "fab fa-github"
-      },
-      {
-        "name": "linkedin",
-        "url": "https://www.linkedin.com/in/ethan-storm-frolic/",
-        "class": "fab fa-linkedin"
-      },
-      {
-        "name": "instagram",
-        "url": "https://www.instagram.com/stormyFrolic/",
-        "class": "fab fa-instagram"
-      }
-    ],
-    "image": "myProfile.jpg"
-  },
-  "skills": {
-    "icons": [
-      {
-        "name": "HTML 5",
-        "class": "devicon-html5-plain",
-        "level": "95"
-      },
-      {
-        "name": "CSS 3",
-        "class": "devicon-css3-plain",
-        "level": "95"
-      },
-      {
-        "name": "React",
-        "class": "devicon-react-plain",
-        "level": "80"
-      },
-      {
-        "name": "TypeScript",
-        "class": "devicon-typescript-plain",
-        "level": "90"
-      },
-      {
-        "name": "JavaScript",
-        "class": "devicon-javascript-plain",
-        "level": "70"
-      },
-      {
-        "name": "Bootstrap",
-        "class": "devicon-bootstrap-plain",
-        "level": "85"
-      },
-      {
-        "name": "MongoDb",
-        "class": "devicon-mongodb-plain",
-        "level": "60"
-      }
-    ]
-  }
+	"basic_info": {
+		"name": "Ethan Storm",
+		"titles": ["Software Developer and Performer"],
+		"social": [
+			{
+				"name": "github",
+				"url": "https://github.com/ShadowDraco",
+				"class": "fab fa-github"
+			},
+			{
+				"name": "linkedin",
+				"url": "https://www.linkedin.com/in/ethan-storm-frolic/",
+				"class": "fab fa-linkedin"
+			},
+			{
+				"name": "instagram",
+				"url": "https://www.instagram.com/stormyFrolic/",
+				"class": "fab fa-instagram"
+			}
+		],
+		"image": "myProfile.jpg"
+	},
+	"skills": {
+		"icons": [
+			{
+				"name": "HTML 5",
+				"class": "devicon-html5-plain",
+				"level": "95"
+			},
+			{
+				"name": "CSS 3",
+				"class": "devicon-css3-plain",
+				"level": "95"
+			},
+			{
+				"name": "React",
+				"class": "devicon-react-plain",
+				"level": "80"
+			},
+
+			{
+				"name": "JavaScript",
+				"class": "devicon-javascript-plain",
+				"level": "70"
+			},
+			{
+				"name": "NodeJS",
+				"class": "devicon-nodejs-plain",
+				"level": "70"
+			},
+			{
+				"name": "Express",
+				"class": "devicon-express-original",
+				"level": "70"
+			},
+			{
+				"name": "TypeScript",
+				"class": "devicon-typescript-plain",
+				"level": "90"
+			},
+			{
+				"name": "Bootstrap",
+				"class": "devicon-bootstrap-plain",
+				"level": "85"
+			},
+			{
+				"name": "MongoDb",
+				"class": "devicon-mongodb-plain",
+				"level": "60"
+			},
+			{
+				"name": "Heroku",
+				"class": "devicon-heroku-original",
+				"level": "50"
+			},
+			{
+				"name": "Socket.io",
+				"class": "devicon-socketio-original",
+				"level": "70"
+			},
+			{
+				"name": "Firebase",
+				"class": "devicon-firebase-plain",
+				"level": "50"
+			},
+			{
+				"name": " ",
+				"class": "",
+				"level": "50"
+			},
+			{
+				"name": "Java",
+				"class": "devicon-java-plain",
+				"level": "85"
+			},
+			{
+				"name": "Python",
+				"class": "devicon-python-plain",
+				"level": "70"
+			},
+			{
+				"name": "AWS",
+				"class": "devicon-amazonwebservices-original",
+				"level": "60"
+			},
+			{
+				"name": "Unity5",
+				"class": "devicon-unity-original",
+				"level": "60"
+			}
+		]
+	}
 }
